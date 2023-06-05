@@ -23888,7 +23888,8 @@ main {
 
 .solution__area-4 {
   overflow: hidden;
-  background-color:#e6eef1;
+  background-color:#c1ddec;
+/*     #e6eef1; */
   background-image: url(../body2.png);
   background-position: bottom left;
   background-repeat: no-repeat;
