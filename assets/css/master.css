@@ -54,7 +54,7 @@
 /*  01. VARIBALES CSS START
 /*----------------------------------------*/
 :root {
-  --primary: #009eb5;
+  --primary: #81b4d9;
   --secondary: #2c2c2c;
   --black: #000;
   --black-2: #000000;
@@ -23888,7 +23888,7 @@ main {
 
 .solution__area-4 {
   overflow: hidden;
-  background-color:#c1ddec;
+  background-color:#363a45;
 
   background-image: url(../body2.png);
   background-position: bottom left;
