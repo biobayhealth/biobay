@@ -7873,20 +7873,17 @@ background-color: #000;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .about__img-3 img {
-    position: unset;
-    height: auto;
+display:none
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .about__img-3 img {
-    position: unset;
-    height: auto;
+   display:none
   }
 }
 @media only screen and (max-width: 767px) {
   .about__img-3 img {
-    position: unset;
-    height: auto;
+   display:none
   }
 }
 
