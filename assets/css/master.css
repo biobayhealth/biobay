@@ -279,9 +279,16 @@
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .pt-110 {
-    padding-top: 90px;
+    padding-top: 50px;
   }
 }
+
+@media only screen and (min-width: 768px) and (max-width: 1199px) {
+  .padit {
+    padding-left: 20px
+  }
+}
+
 
 .pt-120 {
   padding-top: 120px;
