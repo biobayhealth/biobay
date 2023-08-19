@@ -30151,4 +30151,19 @@ body {
 .dark.dir-rtl .portfolio__about .brand-title-wrap {
   border-left: 1px solid var(--secondary);
 }
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .cta__content-4 img {
+display:none
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .cta__content-4 img {
+   display:none
+  }
+}
+@media only screen and (max-width: 767px) {
+  .cta__content-4 img {
+   display:none
+  }
+}
 /*# sourceMappingURL=master.css.map */
